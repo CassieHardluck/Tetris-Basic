@@ -1,4 +1,10 @@
 # Tetris-Basic
+>> This is a forked repo all original README.md content is still below this message. I did not add or subtract any of the main code. The only changes of originality that I will make is to the styling. So all thanks to Ania for her time and creative work. Thank you again!!!
+>> Cassie Hardluck 
+
+
+
+
 This is a simple no nonsense version of Tetris that has no styling - made for the support of my Udemy Video.  Also viewable [here](https://youtu.be/w1JJfK09ujQ)
 
 
